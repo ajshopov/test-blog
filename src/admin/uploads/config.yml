@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ajshopov/blog-test
+  repo: ajshopov/test-blog
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
